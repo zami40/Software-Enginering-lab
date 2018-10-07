@@ -1,2 +1,3 @@
-# Software-Enginering-lab
-Smartex super shop management system
+# Shop-management-System
+
+online shop management system sales, purchase, inventory and so much
